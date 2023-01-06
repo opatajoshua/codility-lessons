@@ -10,3 +10,9 @@ function solution(X, Y, D) {
 
 
 console.log(solution(10,85,30));
+
+
+/**
+ * explanation
+ * https://codereview.stackexchange.com/a/46716
+ */
